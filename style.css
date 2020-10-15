@@ -1,0 +1,20 @@
+
+.body,
+html {
+    background-color: aliceblue;
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+
+.lead {
+    font: size 30px;
+}
+
+.contact {
+    color: blueviolet;
+    margin: 20px;
+    max-width: 1000px;
+  
+}
+
